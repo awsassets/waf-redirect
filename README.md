@@ -1,2 +1,2 @@
 # waf-redirect
-lambda function for Amazon WAF
+lambda function for redirection AWS network firewall output to altprobe
